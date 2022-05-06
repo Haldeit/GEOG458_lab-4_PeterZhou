@@ -1,7 +1,7 @@
 # *Four Themed Maps*
                 - Peter Haoyang Zhou
                 
-### Here are four themed maps added on a dark-themed basemap where we can switch the maps on and off individually by the menu switch on the top right corner. All maps starts with zoom level 6 but allows zoom level from 0 to 10!
+### Here are four themed maps added on a dark-themed basemap where we can switch the maps on and off individually by the menu switch on the top right corner. All maps starts with zoom level 6 but allows zoom level from 0 to 10! The files in the tile sets are actually only 0-7 for the sake of github uploading limit. However, all my screenshots and html files were generated straightly from my original 0-10 zoom level maps!
 
 ## *Modified Basemap*
 - Url: https://studio.mapbox.com/styles/picefel/cl2s8rfpi000315l05kdi5o1n
